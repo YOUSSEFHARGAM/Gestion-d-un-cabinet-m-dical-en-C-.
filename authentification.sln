@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "authentification", "http://localhost:8000/authentification/authentification.vbproj", "{93607A2A-DE52-4F22-A4AF-861A429D4424}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93607A2A-DE52-4F22-A4AF-861A429D4424}.Debug.ActiveCfg = Debug|.NET
+		{93607A2A-DE52-4F22-A4AF-861A429D4424}.Debug.Build.0 = Debug|.NET
+		{93607A2A-DE52-4F22-A4AF-861A429D4424}.Release.ActiveCfg = Release|.NET
+		{93607A2A-DE52-4F22-A4AF-861A429D4424}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
